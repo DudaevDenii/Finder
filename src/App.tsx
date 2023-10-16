@@ -16,8 +16,8 @@ function App() {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "670066679amshad2e1f72e6ab618p15551fjsne8bca8659085",
-      "X-RapidAPI-Host": "google-web-search1.p.rapidapi.com",
+      "X-RapidAPI-Key": "Your Api key",
+      "X-RapidAPI-Host": "Your Api host",
     },
   };
   async function search(link: string) {
